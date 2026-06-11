@@ -37,4 +37,9 @@ Git | GitHub | Vercel | ESLint | Prettier
 
 ![LinkedIn](https://www.linkedin.com/in/jorawar-prajapat-748a682ab/)
 
+](https://www.linkedin.com/in/jorawar-prajapat-748a682ab/)
+[
+
 ![LeetCode](https://leetcode.com/u/jorawar1/)
+
+](https://leetcode.com/u/jorawar1/)
