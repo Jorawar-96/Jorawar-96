@@ -35,11 +35,11 @@ Git | GitHub | Vercel | ESLint | Prettier
 ## 📫 Connect
 [
 
-![LinkedIn](https://www.linkedin.com/in/jorawar-prajapat-748a682ab/)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)
 
-](https://www.linkedin.com/in/jorawar-prajapat-748a682ab/)
+](https://www.linkedin.com/in/jorawar-prajapat-748a682ab)
 [
 
-![LeetCode](https://leetcode.com/u/jorawar1/)
+![LeetCode](https://img.shields.io/badge/LeetCode-orange?logo=leetcode)
 
 ](https://leetcode.com/u/jorawar1/)
